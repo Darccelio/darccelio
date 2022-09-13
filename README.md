@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Darccelio! 
-### 😍 in love with software development, 🎯 graduated in Management end 🗓️ Postgraduate studies in Project Management.
+### 😍 in love with software development, 🎯 graduated in Management and 🗓️ Postgraduate studies in Project Management.
 
 <!--
 **Darccelio/darccelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I'm currently estuding 3th semester of Análise e Desenvolvimento de Sistema College;
-- 🌱 I'm currently learning Java ( Java and Ecosystem Spring Framework ) and Javascript ( TypeScript and React );
-- 🤙 I'm available for oportunities like internship and junior developed
-- 📫 Contact-me on Linkedin profile https://www.linkedin.com/in/darccelio/
+- 🌱 I'm currently learning Java ( Java and Ecosystem Spring Framework ) and Javascript (TypeScript and React);
+- 🤙 I'm available for oportunities like internship and junior developed;
+- 📫 Contact-me on Linkedin profile https://www.linkedin.com/in/darccelio
 
 <hr>
 
