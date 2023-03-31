@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently estuding 3th semester of Análise e Desenvolvimento de Sistema College;
-- 🌱 I'm currently learning Java ( Java and Ecosystem Spring Framework ) and Javascript (TypeScript and React);
+- 🔭 I'm currently estuding 4th semester of Análise e Desenvolvimento de Sistema College;
+- 🌱 I'm currently learning Java ( Spring Framework Ecosystem ) and Javascript (TypeScript and Angular);
 - 🤙 I'm available for oportunities like internship and junior developed;
 - 📫 Contact-me on Linkedin profile https://www.linkedin.com/in/darccelio
 
